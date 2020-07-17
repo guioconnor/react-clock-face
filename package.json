@@ -1,0 +1,42 @@
+{
+  "name": "react-clock-face",
+  "version": "1.0.0",
+  "description": "React based configurable SVG clock face",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guioconnor/react-clock-face.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guioconnor/react-clock-face/issues"
+  },
+  "homepage": "https://github.com/guioconnor/react-clock-face#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rollup": "^2.21.0",
+    "rollup-plugin-sass": "^1.2.2",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "typescript": "^3.9.7"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "dependencies": {}
+}
