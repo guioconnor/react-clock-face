@@ -1,6 +1,6 @@
 {
   "name": "react-clock-face",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React based configurable SVG clock face",
   "main": "dist/index.js",
   "files": [
@@ -33,12 +33,12 @@
     "rollup": "^2.21.0",
     "rollup-plugin-sass": "^1.2.2",
     "rollup-plugin-typescript2": "^0.27.1",
-    "styled-components": "^5.1.1",
     "typescript": "^3.9.7"
   },
   "peerDependencies": {
     "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react-dom": "^16.8.0",
+    "styled-components": "^5.0.0"
   },
   "dependencies": {}
 }
