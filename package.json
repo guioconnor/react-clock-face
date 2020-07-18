@@ -3,9 +3,6 @@
   "version": "0.0.2",
   "description": "React based configurable SVG clock face",
   "main": "dist/index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/guioconnor"
-  },
   "files": [
     "dist"
   ],
