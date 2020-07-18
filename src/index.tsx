@@ -1,3 +1,8 @@
+/* 
+Credits for the SVG base
+  https://codepen.io/john555/pen/odxzVv
+  https://medium.com/the-andela-way/create-a-pure-css-clock-with-svg-f123bcc41e46
+*/
 import * as React from 'react';
 import styled from 'styled-components';
 
