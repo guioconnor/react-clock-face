@@ -1,9 +1,11 @@
 {
   "name": "react-clock-face",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React based configurable SVG clock face",
   "main": "dist/index.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/guioconnor" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/guioconnor"
+  },
   "files": [
     "dist"
   ],
