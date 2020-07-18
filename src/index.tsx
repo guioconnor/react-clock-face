@@ -204,7 +204,6 @@ const App: React.FC<ICounterProps> = ({
   numbers = false,
   size = "100vh",
 }) => {
-  console.log(hours, minutes);
   return (
     <SVG
       viewBox="0 0 40 40"
